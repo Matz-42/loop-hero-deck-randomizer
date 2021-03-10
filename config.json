@@ -1,0 +1,13 @@
+{
+	"randomCharacter": true,
+
+	"minCards": 7,
+	
+	"maxCards": 15,
+	
+	"goldCardChance": 100,
+	
+	"whiteList": [],
+	
+	"blackList": []
+}
